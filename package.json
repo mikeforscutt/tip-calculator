@@ -1,0 +1,21 @@
+{
+  "name": "tip-calculator",
+  "version": "1.0.0",
+  "description": "Javascript tip calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Mike Forscutt",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2"
+  }
+}
